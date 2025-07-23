@@ -1,1 +1,2 @@
 # MSDS-422-Database-Project
+In this course, I was tasked with creating a relational database application that would answer a variety of SQL queries. A large component of the project was using Generative AI models such as OpenAI's ChatGPT in order to CoT (Chain-of-Thought) prompt engineer the best database model that would fulfill the requirements. Attached to the project for clarity and transparency are my ChatGPT interactions and prompt engineering examples.
